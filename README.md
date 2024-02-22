@@ -40,6 +40,7 @@ Recon-ng is like a detective tool for the internet. It helps you gather importan
    - ![image](https://github.com/Umair86247/recon-interesting-files/assets/160429176/e7e590d0-c469-4fa7-b1ce-0976b0759111)
    - `options set SOURCE (source)`
    - ![image](https://github.com/Umair86247/recon-interesting-files/assets/160429176/2444ffb0-f069-43ea-b378-c34993a78498)
+   - `run`
    - ![image](https://github.com/Umair86247/recon-interesting-files/assets/160429176/cbe589d9-c24e-4230-9a81-31a42673fb0d)
    - The files will be saved in the path you can copy and paste it by entering `cd (path)`
    - `/root/.recon-ng/workspaces/default/`
