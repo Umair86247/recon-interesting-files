@@ -1,7 +1,7 @@
 # Web Reconnaissance Tool - Interesting Files Scanner
 
-Table of Content:
-[Introduction](#introduction)
+##Table of Content:
+1.[Introduction](#introduction)
 
 
 ## Description
