@@ -32,7 +32,9 @@ Recon-ng is like a detective tool for the internet. It helps you gather importan
    - `marketplace install (file-name)`
    - ![image](https://github.com/Umair86247/recon-interesting-files/assets/160429176/0c7366c6-9f29-4fa3-a262-f3386ef8753d)
    - ![image](https://github.com/Umair86247/recon-interesting-files/assets/160429176/34add66c-5fde-4f49-942e-1159a30cc122)
+   - `modules search`
    - ![image](https://github.com/Umair86247/recon-interesting-files/assets/160429176/ea8382a0-423b-4389-b988-8a8d2ce67a5e)
+   - `modules load (module name)`
    - ![image](https://github.com/Umair86247/recon-interesting-files/assets/160429176/d147198a-34d8-43a4-b532-0057ef7c4689)
    - ![image](https://github.com/Umair86247/recon-interesting-files/assets/160429176/e7e590d0-c469-4fa7-b1ce-0976b0759111)
    - ![image](https://github.com/Umair86247/recon-interesting-files/assets/160429176/2444ffb0-f069-43ea-b378-c34993a78498)
