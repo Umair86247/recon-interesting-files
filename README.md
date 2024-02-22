@@ -1,8 +1,9 @@
 # Web Reconnaissance Tool - Interesting Files Scanner
 
 ## Table of Content:
-1.[Introduction](#introduction)
-
+1. [Description](#description)
+2. [Features](#features)
+3.  [Installation](#installation)
 
 ## Description
 This Python script is designed to scan web servers for interesting files that may contain sensitive information such as credentials, configuration settings, or backups. It aids in reconnaissance efforts during security assessments or penetration tests, helping identify potential security vulnerabilities.
