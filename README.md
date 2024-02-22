@@ -22,13 +22,16 @@ To set up Recon-ng on your Kali Linux system, you've got two options: the easy w
 Recon-ng is like a detective tool for the internet. It helps you gather important information about websites, networks, and people. With its different tools, you can find out things like what software a website is using or what email addresses are associated with a company. It's a must-have for cybersecurity experts and researchers who want to learn more about their targets.
 
 ## Module Selection
-1. Module Selection:
+1. Module Options:
+   - Syntax: `marketplace search`, `set <option_name> <value>`, `unset <option_name>`
+   - Description: Allows users to view and set options specific to the selected module.
+   - ![image](https://github.com/Umair86247/recon-interesting-files/assets/160429176/d2a5b192-9abf-4b5a-8ed1-e40378042ae5)
+   - ![image](https://github.com/Umair86247/recon-interesting-files/assets/160429176/69d99a8b-355b-49db-af4a-9f756543efd7)
+   -   
+
+2. Module Selection:
    - Syntax: `use <module_name>` or `use modules/<module_category>/<module_name>`
    - Description: Selects a specific module for execution.
-
-2. Module Options:
-   - Syntax: `show options`, `set <option_name> <value>`, `unset <option_name>`
-   - Description: Allows users to view and set options specific to the selected module.
 
 3. Module Execution:
    - Syntax: `run`
